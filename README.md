@@ -35,3 +35,7 @@ https://github.com/webpack-contrib/css-loader
 Step9 : ( optional )
 Install masonry for output the feed images.
 https://github.com/eiriklv/react-masonry-component
+
+Step10 : 
+Install Reat-router for routing.
+https://github.com/ReactTraining/react-router
